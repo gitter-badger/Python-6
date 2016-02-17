@@ -9,3 +9,10 @@ Wir laden von https://dev.windows.com/en-us/microsoft-edge/tools/vms/linux/ eine
 
 Wir wählen in dem Menü der Internetseite IE 8 on Windows 7 und als Plattform Windows 7 aus. Die wahl auf die Auswahl fällt einfach um die aktuelle Python-Version zu verwenden (Windows XP und Windows Vista werden seit Python 3.4 nicht mehr unterstützt) und auf der anderen Seite ein möglichst kleines Images zu bekommen.
 
+## Python installieren unter Linux
+Ich habe mich für Peppermint entschieden, weil es auf Ubuntu basiert und auf der anderen Seite besonders klein und schnell ist. 
+Das Benutzername und das Passwort lautet fbs. 
+
+> sudo apt update
+> sudo apt dsit-upgrade
+> sudo apt install spyder3
